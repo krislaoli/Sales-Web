@@ -22,6 +22,17 @@ Yang digunakan dalam pembuatan web ini :
 3. Instal AOS Animate On Scroll Library
 4. Menggunakan useNavigate
 
+https://getbootstrap.com/
+https://cdnjs.com/libraries/font-awesome
+https://fontawesome.com/icons
+https://michalsnik.github.io/aos/
+https://animate.style/
+https://swiperjs.com/
+https://vitejs.dev/
+https://react.dev/
+https://react-bootstrap.github.io/
+
+
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
