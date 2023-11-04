@@ -3,6 +3,7 @@
 By : Mei Kristian Laoli
 
 localhost : http://localhost:5173/
+Run Terminal : npm run dev
 
 yang di dapatkan setelah belajar membuat web ini :
 1. Belajar Menggunakan React Js dengan VITE (Beginner Friendly).
