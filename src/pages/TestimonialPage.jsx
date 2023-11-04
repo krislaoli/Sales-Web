@@ -19,7 +19,7 @@ const TestimonialPage = () => {
               </p>
             </Col>
           </Row>
-          <Row className="row-cols-lg-3 row-cols-1">
+          <Row className="row-cols-lg-3 testimonial-class row-cols-1 mt-5">
             {testimonial.map((data) => {
               return (
                 <Col key={data.id} className="mb-5 shadow-lg">
