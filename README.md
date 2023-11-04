@@ -1,8 +1,26 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+By : Mei Kristian Laoli
 
-link localhost : http://localhost:5173/
+localhost : http://localhost:5173/
+
+yang di dapatkan setelah belajar membuat web ini :
+1. Belajar Menggunakan React Js dengan VITE (Beginner Friendly).
+2. Belajar Membuat Website Multi Page dengan React Js.
+3. Belajar React Bootstrap/Boostrap5 dalam membuat Website.
+4. Belajar React Router 6 dalam membuat Jalur Route.
+5. Belajar Membuat Carouse dengan Swiper Js.
+6. Belajar Membuat Accordion dengan React Bootstrap.
+7. Belajar Merubah Warna Background pada Navbar dengan useState & useEffect.
+8. Belajar Membuat Full Responsive Website dengan React Js.
+9. Belajar Menambahkan Animasi Transisi dengan Animate Style.
+10. Belajar Menambahkan Animasi ketika Scroll dengan Animate On Scroll.
+
+Yang digunakan dalam pembuatan web ini :
+1. Instal & Menambahkan React Router
+2. Instal & Menambahkan React Bootstrap
+3. Instal AOS Animate On Scroll Library
+4. Menggunakan useNavigate
 
 Currently, two official plugins are available:
 
